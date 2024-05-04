@@ -1,7 +1,3 @@
-Sure, here's the README translated into English:
-
----
-
 # List Running Processes
 
 This C program lists the running processes on a Linux system by displaying their ID, name, and memory usage.
